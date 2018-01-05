@@ -17,7 +17,8 @@ body {
 #topnavcontainer > div {
   display: inline-block;
   text-align: right;
-  font: 16px; }
+  margin-right: 0;
+  margin-left: auto; }
 
 #cart {
   width: 16px; }
